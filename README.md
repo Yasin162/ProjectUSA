@@ -1,0 +1,1 @@
+This app allows you to click two buttons. One of the button allows you to show the population of the US states. Then other allows you to show the the map of the US. If one piece of information is shown and you click the other button it will collapse the previous information and show the next.
